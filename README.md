@@ -43,7 +43,7 @@ Data preprocessing was conducted in **Excel**, followed by dashboard visualizati
 - Customer segmentation by age, job, gender  
 - Time series analysis of sales trends
 You can open the dashboard using Power BI Desktop with the `MoviesDashboard.pbix` file, or you can view it online at the link below:
-[View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjBiZmUxNjItNGVhMy00ZTA0LWIyZDMtODJiZjg5YTkzZTg4IiwidCI6ImJjNWMxMGQwLTY5OWEtNDA1Mi1hNDk2LWM2NjY1NTU3NzYyZSIsImMiOjEwfQ%3D%3D&fbclid=IwY2xjawLAZ4FleHRuA2FlbQIxMABicmlkETFDeG9CZjAzRFl4MzBzbzYzAR4bn7I5jYuuR913lJtFs4h1ashfFpKQP1xYrXBPRmBXNUhc59DFQEOHCnG-yQ_aem_uiayFplzSs_Q4MqLEITg7Q)
+[MoviesDashboard](https://app.powerbi.com/view?r=eyJrIjoiZjBiZmUxNjItNGVhMy00ZTA0LWIyZDMtODJiZjg5YTkzZTg4IiwidCI6ImJjNWMxMGQwLTY5OWEtNDA1Mi1hNDk2LWM2NjY1NTU3NzYyZSIsImMiOjEwfQ%3D%3D&fbclid=IwY2xjawLAZ4FleHRuA2FlbQIxMABicmlkETFDeG9CZjAzRFl4MzBzbzYzAR4bn7I5jYuuR913lJtFs4h1ashfFpKQP1xYrXBPRmBXNUhc59DFQEOHCnG-yQ_aem_uiayFplzSs_Q4MqLEITg7Q)
 ---
 
 ## Key Insights
