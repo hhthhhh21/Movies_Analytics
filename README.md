@@ -2,7 +2,7 @@
 
 ---
 
-## Competition Context
+## Introduction
 
 This project was developed for **Data Got Talent 2023**, organized by the **Faculty of E-Commerce, University of Economics – The University of Danang**. The challenge required teams to analyze a movie dataset, generate insights, and build a business-oriented dashboard.
 
